@@ -2,6 +2,6 @@ module.exports = {
   i18n: {
     defaultLocale: "pl",
     locales: ["pl", "ukr"],
-    reloadOnPrerender: true,
+    localePath: path.resolve("./public/locales"),
   },
 };
