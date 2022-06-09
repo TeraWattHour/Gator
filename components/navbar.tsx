@@ -31,7 +31,7 @@ function Navbar() {
                 "w-9 h-6 cursor-pointer border-2 ",
                 locale === "ukr" ? "border-black" : "border-gray-400"
               )}
-              src="/flags/ukr.webp"
+              src="/flags/ukr.png"
             />
           </Link>
         </div>
