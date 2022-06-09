@@ -36,4 +36,6 @@ const LogicButton = React.forwardRef<HTMLButtonElement, props>(
   }
 );
 
+LogicButton.displayName = "LogicButton";
+
 export default LogicButton;
