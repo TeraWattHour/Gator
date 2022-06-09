@@ -1,0 +1,15 @@
+{
+  "what-are-gates": "Czym są bramki logiczne?",
+  "what-are-gates-text": "Bramki logiczne to elementy elektroniczne pozwalające na zerojedynkowe regulowanie sygnałów wejścia.",
+  "what-are-gates-distunguish": "Wyróżniamy wiele rodzajów bramek logicznych, w tym:",
+  "desc-and": "Emituje sygnał wyjściowy 1 wtedy i tylko wtedy, gdy oba wejścia otrzymują sygnał 1.",
+  "desc-or": "Emituje sygnał wyjściowy 1 wtedy i tylko wtedy, gdy jedno lub oba wejścia otrzymują sygnał 1.",
+  "desc-xor": "Emituje sygnał wyjściowy 1 wtedy i tylko wtedy, gdy tylko jedno wejście otrzymuje sygnał 1.",
+  "desc-nand": "Emituje sygnał wyjściowy 1 wtedy i tylko wtedy, gdy oba wejścia nie otrzymją sygnału 1 jednocześnie.",
+  "desc-not": "Emituje sygnał przeciwny do otrzymywanego.",
+  "desc-nor": "Emituje sygnał wyjściowy 1 wtedy i tylko wtedy, gdy żadne z wejść nie otrzymuje sygnału 1.",
+  "excercises": "Ćwiczenia",
+  "turn-on": "Zapal żarówkę",
+  "turn-off": "Zgaś żarówkę",
+  "confirm": "Potwierdź"
+}
